@@ -1,0 +1,1 @@
+siege -c50 -d0.01 "http://elbautoscale-1841667205.eu-north-1.elb.amazonaws.com:8080/stars?n=5000"
